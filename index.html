@@ -8,5 +8,12 @@
 </head>
 <body>
     This is our website!
+
+    <button>Click me</button>
+    <button>Click me</button>
+
+    <script>
+        document.querySelectorAll("button").forEach((btn) => btn.addEventListener("click", () => alert("Thanks for clicking me!")));
+    </script>
 </body>
 </html>
