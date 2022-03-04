@@ -1,6 +1,6 @@
 # GIT Practice
 
-### this is a header
+### Running it locally
 
 Some text under it
 
