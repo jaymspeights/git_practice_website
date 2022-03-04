@@ -1,1 +1,1 @@
-document.querySelectorAll("button").forEach((btn) => btn.addEventListener("click", () => alert("Thanks for clicking me!")));
+document.querySelectorAll("button").forEach((btn) => btn.addEventListener("click", () => alert("Hi there! :)")));
