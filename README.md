@@ -2,6 +2,6 @@
 
 ### Running it locally
 
-Some text under it
+Open index.html in a web browser
 
 run `this command`
